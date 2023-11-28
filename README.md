@@ -11,11 +11,11 @@
 
 - 👨‍💻 I’m an Undergraduate at **Open University of Sri Lanka**
 
-- 📝 I regularly write articles on [kavinducreations.blogspot.com](www.kavinducreations.blogspot.com)
+- 📝 I regularly write articles on [www.kavinducreations.blogspot.com](www.kavinducreations.blogspot.com)
 
 - 🌱 I’m currently learning **Bachelor of Software Engineering**
 
-- 📫 How to reach me **www.kaviigunawardhana2000@gmail.com**
+- 📫 How to reach me **kaviigunawardhana2000@gmail.com**
 
 - ⚡ Fun fact **Call me as Azor Ahai**
 
