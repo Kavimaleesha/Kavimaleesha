@@ -11,7 +11,7 @@
 
 - 👨‍💻 I’m an Undergraduate at **Open University of Sri Lanka**
 
-- 📝 I regularly write articles on [kavinducreations.blogspot.com](kavinducreations.blogspot.com)
+- 📝 I regularly write articles on [kavinducreations.blogspot.com](www.kavinducreations.blogspot.com)
 
 - 🌱 I’m currently learning **Bachelor of Software Engineering**
 
