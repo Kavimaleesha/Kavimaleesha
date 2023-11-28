@@ -11,8 +11,6 @@
 
 - 👨‍💻 I’m an Undergraduate at **Open University of Sri Lanka**
 
-- 📝 I regularly write articles on [www.kavinducreations.blogspot.com](www.kavinducreations.blogspot.com)
-
 - 🌱 I’m currently learning **Bachelor of Software Engineering**
 
 - 📫 How to reach me **kaviigunawardhana2000@gmail.com**
@@ -26,7 +24,6 @@
 <a href="https://instagram.com/azor_ahai__00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azor_ahai__00" height="30" width="40" /></a>
 <a href="https://medium.com/@kavicreations" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kavicreations" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kavicreations3853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kavicreations3853" height="30" width="40" /></a>
-<a href="/http://kavinducreations.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://www.kavinducreations.blogspot.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
