@@ -12,9 +12,15 @@
 
 - ⚡ Fun fact **Call me as Azor Ahai**
 
-|| <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kavimaleesha" alt="Kavimaleesha" /></a> </p> |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavimaleesha&theme=tokyonight) | ![Kavimaleesha's github stats](https://github-readme-stats.vercel.app/api?username=Kavimaleesha&show_icons=true&theme=tokyonight) |
+# 📊 GitHub Stats:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kavimaleesha" alt="Kavimaleesha" /></a> </p> 
+
+![](https://github-readme-stats.vercel.app/api?username=Kavimaleesha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kavimaleesha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavimaleesha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Kavimaleesha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
