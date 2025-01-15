@@ -5,19 +5,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavimaleesha&label=Profile%20views&color=0e75b6&style=flat" alt="kavimaleesha" /> </p>
 
 
-| <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kavimaleesha" alt="Kavimaleesha" /></a> </p> |
-| --- | --- ||
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavimaleesha&theme=tokyonight) | ![Kavimaleesha's github stats](https://github-readme-stats.vercel.app/api?username=Kavimaleesha&show_icons=true&theme=tokyonight) |
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kavimaleesha" alt="Kavimaleesha" /></a> </p> 
 
-
-
-- 👨‍💻 I’m an Undergraduate at **Open University of Sri Lanka**
+ - 👨‍💻 I’m an Undergraduate at **Open University of Sri Lanka**
 
 - 🌱 I’m currently learning **Bachelor of Software Engineering**
 
 - 📫 How to reach me **kaviigunawardhana2000@gmail.com**
 
 - ⚡ Fun fact **Call me as Azor Ahai**
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavimaleesha&theme=tokyonight) | ![Kavimaleesha's github stats](https://github-readme-stats.vercel.app/api?username=Kavimaleesha&show_icons=true&theme=tokyonight) |
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
