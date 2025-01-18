@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **kaviigunawardhana2000@gmail.com**
 
+- 👨‍💻 My portfolio : https://kavimaleesha.github.io/myportfolio/
+
 - ⚡ Fun fact **Call me as Azor Ahai**
 
 ## 📊 GitHub Stats :
