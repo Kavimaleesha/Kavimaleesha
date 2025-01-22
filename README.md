@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kaviigunawardhana2000@gmail.com**
 
-- 👨‍💻 My portfolio : https://kavimaleesha.github.io/myportfolio/
+- 👨‍💻 My Linktree : https://linktr.ee/kavindumaleesha
 
 - ⚡ Fun fact **Call me as Azor Ahai**
 
