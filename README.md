@@ -12,7 +12,6 @@
 
 - 👨‍💻 My Linktree : https://linktr.ee/kavindumaleesha
 
-- ⚡ Fun fact **Call me as Azor Ahai**
 
 ## 📊 GitHub Stats :
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kavimaleesha" alt="Kavimaleesha" /></a> </p> 
