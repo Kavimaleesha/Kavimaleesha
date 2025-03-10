@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=05F714&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kavindu+Maleesha;Bachelor+of+Software+Engineering+at+OUSL" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=05F714&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kavindu+Maleesha;Bachelor+of+Software+Engineering+at+OUSL" alt="Typing SVG" /></a>
 
 <h3 align="center">Hello there! I am a Bachelor of Software Engineering undergraduate at Open University seeking opportunities to enhance my knowledge by working in teams. Therefore, I'm looking for a challenging career in an organization where I can contribute my skills and competencies. Also, I'm waiting to improve my abilities and gain experience with a new career in my life.</h3>
 
